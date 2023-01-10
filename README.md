@@ -1,7 +1,7 @@
 # Anna Kainova
 **QA Engineer**
 
-![](/images/Introduction.jpgimages/Introduction.png)
+![](/images/Introduction.jpg)
 
 ### Contacts:
 - email: annakainova88@gmail.com
